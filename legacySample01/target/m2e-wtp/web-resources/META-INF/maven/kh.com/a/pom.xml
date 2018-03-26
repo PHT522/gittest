@@ -82,6 +82,7 @@
 			</exclusions>
 			<scope>runtime</scope>
 		</dependency>
+		
 
 		<!-- @Inject -->
 		<dependency>
