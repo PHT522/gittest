@@ -9,7 +9,8 @@
 </head>
 <body>
 
-<a href="home">home</a>
+<!-- <a href="home">home</a> -->
+<a href="home.do">home</a>
 
 </body>
 </html>
